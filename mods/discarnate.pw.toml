@@ -1,0 +1,14 @@
+name = "Discarnate"
+filename = "Discarnate-2.0.1+1.17.1-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bEQrnLr7/versions/eFsM8Od0/Discarnate-2.0.1%2B1.17.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "f502f918b0f96241c40f60850c2be5243d17617bd98dae9ede738922e69e75ffed0e18a9a37d1f797c352ccd57c3e316afd765d2412ac1ff0b57d89b967802da"
+
+[update]
+[update.modrinth]
+mod-id = "bEQrnLr7"
+version = "eFsM8Od0"

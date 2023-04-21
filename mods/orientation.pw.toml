@@ -1,0 +1,14 @@
+name = "Orientation"
+filename = "critical-orientation-1.19-3.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/AFqV4ew3/versions/3.0.1/critical-orientation-1.19-3.0.1.jar"
+hash-format = "sha512"
+hash = "9da40ad64bf84350acd38244427098b541d4260281038d2cf3cd5bf75c6ad15f64776dce43262529a3c8b43988d0fb0ded7f9301a924d6497f95976b5b0b0263"
+
+[update]
+[update.modrinth]
+mod-id = "AFqV4ew3"
+version = "ksL4Bjju"

@@ -1,0 +1,14 @@
+name = "BiomeInfo"
+filename = "biomeinfo-1.19.2-12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Fws7jX8r/versions/wE70ClEA/biomeinfo-1.19.2-12.jar"
+hash-format = "sha512"
+hash = "9907adb929b2dec19832387310e776c543466474c52d4a0f27f94a613f6f3c89b25868ed9bb04dc993af0d1125cb7eb485124e95f45d561a06f06d179ee7db1e"
+
+[update]
+[update.modrinth]
+mod-id = "Fws7jX8r"
+version = "wE70ClEA"

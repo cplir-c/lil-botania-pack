@@ -1,0 +1,14 @@
+name = "VulkanMod"
+filename = "VulkanMod_1.19.2-0.2.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/lV4rpt9h/VulkanMod_1.19.2-0.2.5.jar"
+hash-format = "sha512"
+hash = "75b8743e138e89aa918b0fa158c0061a7c795c5f7b8992a2619f9878054f2519ab24e1fd1d4c3c22c044590272ee65c9121fa6dc442ea146792c3c30eb6783b3"
+
+[update]
+[update.modrinth]
+mod-id = "JYQhtZtO"
+version = "lV4rpt9h"

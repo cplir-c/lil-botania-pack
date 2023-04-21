@@ -1,0 +1,14 @@
+name = "Ecotones"
+filename = "ecotones-0.9.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/b5uBYDjU/versions/8ycxvZVY/ecotones-0.9.1.jar"
+hash-format = "sha512"
+hash = "a89470e32b4deb9316cf58a6eaafb087337a2e9ed3e802c43464c91e266a0ffdfb0f7dd41acfc54167407153b433f7b974f2d42e8571c673fc207c1550811116"
+
+[update]
+[update.modrinth]
+mod-id = "b5uBYDjU"
+version = "8ycxvZVY"

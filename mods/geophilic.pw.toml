@@ -1,0 +1,14 @@
+name = "Geophilic"
+filename = "geophilic‐1.19-2.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/wU4A1GgO/geophilic‐1.19-2.0.0.jar"
+hash-format = "sha512"
+hash = "3dc166229a067965376c59da43bf9776fe654660d32b1e0bfdd12ddca09ce6ece7384a4bbd46ac2341ae069263d237efd971b293a120fe648d39faa2bddf5054"
+
+[update]
+[update.modrinth]
+mod-id = "hl5OLM95"
+version = "wU4A1GgO"

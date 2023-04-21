@@ -1,0 +1,14 @@
+name = "BoatHud"
+filename = "boathud-1.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ENNbyqzB/versions/4gD4CuG0/boathud-1.1.2.jar"
+hash-format = "sha512"
+hash = "eba38e205af6071a9d7a079786e743b13e498bb2133c5aa6d426b5b4f4c7741e183cb12eb10188ca81c48bbcfc6d7578c4f0c548914d1897046a96185cbcc6b0"
+
+[update]
+[update.modrinth]
+mod-id = "ENNbyqzB"
+version = "4gD4CuG0"

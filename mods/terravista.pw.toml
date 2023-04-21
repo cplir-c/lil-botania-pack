@@ -1,0 +1,14 @@
+name = "Terravista"
+filename = "terravista-0.1.0+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CIvCvpge/versions/ElrXboJM/terravista-0.1.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "671f3614aa877ab430a4da3cedcb90c46369712932a1f2997875f9088b644b084efbb575656296e73209e89dae2422aeddca053d2f0f4d9895e9eecff27eb24d"
+
+[update]
+[update.modrinth]
+mod-id = "CIvCvpge"
+version = "ElrXboJM"

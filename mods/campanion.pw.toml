@@ -1,0 +1,14 @@
+name = "Campanion"
+filename = "Campanion-fabric-1.19.2-4.1.2+fabric.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Y2Rds0HS/versions/YBz3w2EU/Campanion-fabric-1.19.2-4.1.2%2Bfabric.jar"
+hash-format = "sha512"
+hash = "66806ad5ed09e85172b6326a270cfdc7e13a29e4d06a9b619083fc543859a574c702976fb7c7257c2cded0b6e246f15c8b179c636c268d16acd214b6c17cf425"
+
+[update]
+[update.modrinth]
+mod-id = "Y2Rds0HS"
+version = "YBz3w2EU"

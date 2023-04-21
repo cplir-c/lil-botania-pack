@@ -1,0 +1,14 @@
+name = "Tres Leches"
+filename = "tres-leches-1.0-fabric+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/oYbmi2TB/versions/fTIFsDsq/tres-leches-1.0-fabric%2B1.19.jar"
+hash-format = "sha512"
+hash = "dae05ee5e35e62119a0bb338f2291d4930d685b2700c5fd96900f1400b741fbd7b8e2b43d70b627d5df11a4dbe9f3067532e8e95fac36f695f07d9328c121395"
+
+[update]
+[update.modrinth]
+mod-id = "oYbmi2TB"
+version = "fTIFsDsq"
