@@ -12,3 +12,9 @@ hash = "ceff606fc410d08198eddd48e4c9ec8499a63ad088edf0269235613b658ce069e25248ab
 [update.modrinth]
 mod-id = "1m9s2ZhL"
 version = "igrVNtL4"
+
+[option]
+optional = true
+default = false
+description = "Adds convenient features for ice-boating, like direction snapping and turn-priming. Ice boats are likely nerfed from high-speed rail, however."
+

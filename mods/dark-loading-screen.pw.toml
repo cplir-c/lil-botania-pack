@@ -1,6 +1,6 @@
 name = "Dark Loading Screen"
 filename = "dark-loading-screen-1.6.12.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "ae8940bf276abc4cbf4a880e5fbd73f7cb26df4887944135f4cc4bfab8e6ba7d92609b91
 [update.modrinth]
 mod-id = "h3XWIuzM"
 version = "iNdVB0oZ"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod to make the Mojang loading screen dark themed. Colors are configurable."
+

@@ -12,3 +12,9 @@ hash = "867f674468632a17518de7509bacf00a10d00ee1a851e286efd36f6eaf13616f78d7cee4
 [update.modrinth]
 mod-id = "wXiGiyGX"
 version = "sB14azEN"
+
+[option]
+optional = true
+default = false
+description = "Serverside mod to generate the Nether 256 blocks tall rather than 128."
+

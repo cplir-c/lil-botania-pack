@@ -12,3 +12,9 @@ hash = "b670d6175495166a6a6a04dc33f040035067fec78682148796e7f0223c071ea23d7ba146
 [update.modrinth]
 mod-id = "hg77g4Pw"
 version = "l9SfLZDA"
+
+[option]
+optional = true
+default = true
+description = "No Telemetry disables the telemetry introduced in Minecraft 21w38a."
+

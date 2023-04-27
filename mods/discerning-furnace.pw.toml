@@ -12,3 +12,9 @@ hash = "1914f0feda0793c8e3193b548b19dd1e010a36faac471c2e2e2b29ec5c85e23f04ff847b
 [update.modrinth]
 mod-id = "G3Nz6HN4"
 version = "lr5cM6m0"
+
+[option]
+optional = true
+default = true
+description = "Prevents inserting non-smeltable items into a furnace input. Works on client or server, but automation is only affected serverside."
+

@@ -12,3 +12,9 @@ hash = "dfe62d6ae465baa6b60249f271508bb97e5f07f663c018658dfb940f99e7fce5fa9f5b6c
 [update.modrinth]
 mod-id = "FWumhS4T"
 version = "r8xRVPEI"
+
+[option]
+optional = true
+default = true
+description = "Smooth boot makes Minecraft load smoother and maybe faster by editing some executor-related parameters."
+

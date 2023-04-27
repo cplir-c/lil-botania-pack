@@ -1,6 +1,6 @@
 name = "ImmediatelyFast"
 filename = "ImmediatelyFast-1.1.12+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "a8c2067eb714fb9332984e2ea702934bf543c807de87dbc768c60cdc963869d21e53af2c
 [update.modrinth]
 mod-id = "5ZwdcRci"
 version = "4yVqQKQO"
+
+[option]
+optional = true
+default = true
+description = "Client-side optimization mod optimizing immediate mode rendering using a custom buffer implementation. Significant improvements to especially entity and map rendering (~3x), and some improvements to text and hud rendering (~2x). Compatible with Sodium and Iris."
+

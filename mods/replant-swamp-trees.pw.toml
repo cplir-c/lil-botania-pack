@@ -12,3 +12,9 @@ hash = "6ff85192117ff6690d6b31f11c8c2fac9b74542e326cca4deea5539d3c1e1a16486f642d
 [update.modrinth]
 mod-id = "TnfgLqW5"
 version = "Qf0OPO1S"
+
+[option]
+optional = true
+default = true
+description = "Allows regrowing oak swamp trees in swamp biomes by planting a normal oak sapling. Works on client and server."
+

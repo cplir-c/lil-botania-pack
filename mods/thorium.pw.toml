@@ -12,3 +12,9 @@ hash = "ef4e9f74134357ca8ca451b86241ebbb081dc45a5ee45f3f3a5d85c49fdce9f07d38b339
 [update.modrinth]
 mod-id = "ImUQFWcy"
 version = "vntUAZDw"
+
+[option]
+optional = true
+default = true
+description = "Thorium fixes 50+ small bugs."
+

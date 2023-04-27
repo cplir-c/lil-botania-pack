@@ -12,3 +12,9 @@ hash = "f88cf951287ebea60b9b379456221c0ac84ca500f842b82c502db3e931819ef473b27e09
 [update.modrinth]
 mod-id = "LPjGiSO4"
 version = "qFzFO6Ir"
+
+[option]
+optional = true
+default = true
+description = "Datapack adding new bleak End world generation."
+

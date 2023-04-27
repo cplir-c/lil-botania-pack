@@ -1,6 +1,6 @@
 name = "Amecs"
 filename = "amecs-1.3.8+mc.1.19-rc2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,8 @@ hash = "c17b588b3cb2e6c4ad93e705be84b45860d82812a56621640204326d6748d431779d65af
 [update.modrinth]
 mod-id = "rcLriA4v"
 version = "RcXP5WO3"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod for allowing more modifier keys in keybindings, and a keybind search bar."

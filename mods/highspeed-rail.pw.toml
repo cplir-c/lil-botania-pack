@@ -1,14 +1,20 @@
 name = "High-Speed Rail"
-filename = "highspeed-rail-0.0.2+1.19.2.jar"
+filename = "highspeed-rail-0.0.3+1.19.2.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/poO30PuC/highspeed-rail-0.0.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/nTEpg4cq/highspeed-rail-0.0.3%2B1.19.2.jar"
 hash-format = "sha512"
-hash = "2f8f2b685af557ead97d927e9a33f73d6ade3f8878d54faee52677dcce4438800e53cdd3dac1189ed3c6adbd582582505d7e2c4befe35b3b367466216d5aeeca"
+hash = "b2ddd9d00c141986e950154307505df22ecc5e0644e4fd350ecf0d47937aad07a28b5ec706403d92633ce7201332d3f1dc6ffff15f7060ddbb57caff0f4f5ba3"
 
 [update]
 [update.modrinth]
 mod-id = "d7PCSOkD"
-version = "poO30PuC"
+version = "nTEpg4cq"
+
+[option]
+optional = true
+default = true
+description = "Serverside, it nerfs ice boats and makes minecarts go fast on straight gravel rails. Clientside, it displays a speedometer when minecarting."
+

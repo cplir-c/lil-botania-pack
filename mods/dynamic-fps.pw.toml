@@ -1,6 +1,6 @@
 name = "Dynamic FPS"
 filename = "dynamic-fps-2.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "a1758446706b095b1352851a68e45f0807fccd00cbc736db9c7275e6468ea07507b6f89e
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "g9FOSLTq"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that reduces Minecraft's FPS in the background to 1 fps when not focused, or no renders when hidden."
+

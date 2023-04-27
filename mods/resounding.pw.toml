@@ -12,3 +12,9 @@ hash = "e3817ed78a6a9779fd60ae474ffe45246db2220f45066110eae60d79047032c0b72ab559
 [update.modrinth]
 mod-id = "UwbKhrqq"
 version = "kySgIhV2"
+
+[option]
+optional = true
+default = true
+description = "Resounding adds realistic, performant audio physics to Minecraft. Currently seems stable in my experience despite being in Alpha."
+

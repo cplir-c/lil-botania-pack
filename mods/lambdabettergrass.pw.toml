@@ -1,6 +1,6 @@
 name = "LambdaBetterGrass"
 filename = "lambdabettergrass-1.3.0+1.19.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "b414857a60f7bfb4dee0c39ed44e54f5053773e92ece229d9e257e7dc06f66608e7a331e
 [update.modrinth]
 mod-id = "2Uev7LdA"
 version = "UWFTYBmq"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod adding better grass, snow, and more, like the optifine feature but better. Compatible with Sodium only with Indium."
+

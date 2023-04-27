@@ -1,6 +1,6 @@
 name = "EMI Trades"
 filename = "EMITrades-fabric-1.0.2+mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "f7952ee8e39c9753bcdbb91bcc5f7958e76efffa1193f56a093c48bbe21be395438cd449
 [update.modrinth]
 mod-id = "j2HhbEE7"
 version = "YnCegFtP"
+
+[option]
+optional = true
+default = true
+description = "EMI addon adding Villager Trade support (including costs, payments, required level, and wandering trader)"
+

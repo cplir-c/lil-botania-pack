@@ -1,6 +1,6 @@
 name = "MoreChatHistory"
 filename = "morechathistory-1.19.1-1.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "97b92ad55bc88ea5c75de55672bfd23842a03dd1d697cb9d877b2d97da3f52c2f4c00858
 [update.modrinth]
 mod-id = "8qkXwOnk"
 version = "b1apT2G2"
+
+[option]
+optional = true
+default = false
+description = "A client-side mod that increases the maximum length of chat history, from 100 messages to 16384 messages."
+

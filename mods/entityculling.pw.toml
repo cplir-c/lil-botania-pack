@@ -1,6 +1,6 @@
 name = "EntityCulling"
 filename = "entityculling-fabric-1.6.1-mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "e8e276798e468c73a607be7ac872e3b20686d0c822e0b2a61d33c01c124de14ba211a7ea
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "twdGLDHv"
+
+[option]
+optional = true
+default = true
+description = "Client-side optimization mod to skip rendering block/entities that are not visible. Uses async path tracing. Works with Sodium, Iris, and vanilla."
+

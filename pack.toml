@@ -1,12 +1,12 @@
 name = "lil botania pack"
 author = "cplir-c"
-version = "0.1"
+version = "0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1f226e069bce11b0b2f1f5126c7b2c5cad08c373b64403c588a7b2be772fcb7"
+hash = "d278722b48245b5c63586886537d414f29efd49443472f2c4712e9bc299e1c6c"
 
 [versions]
 minecraft = "1.19.2"

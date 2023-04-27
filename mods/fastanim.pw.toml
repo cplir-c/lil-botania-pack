@@ -1,6 +1,6 @@
 name = "FastAnim"
 filename = "lunade-fastanim-1.5.7.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "4a7547c26eec9181f60e1b585cea7a70fc2a934a1f2371ed35208052e836f6893a718a71
 [update.modrinth]
 mod-id = "yHf7SALy"
 version = "LCHmWNvu"
+
+[option]
+optional = true
+default = true
+description = "Client-side optimization mod that caches PI/180 and other entity model calculations."
+

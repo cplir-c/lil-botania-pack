@@ -1,6 +1,6 @@
 name = "Indium"
 filename = "indium-1.0.9+mc1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "037ffe399b279f7d4d823769035da1879fa9925a1b8d959f1dd04ad6c1ed7186d61a6a52
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "yTfou6df"
+
+[option]
+optional = true
+default = true
+description = "Client-side addon for Sodium implementing the fabric rendering API, which is required for many mods' advanced rendering, and not supported directly by Sodium. Unnecessary without Sodium."
+

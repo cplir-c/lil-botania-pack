@@ -1,6 +1,6 @@
 name = "Better Mount HUD"
 filename = "bettermounthud-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "a03865f72903ce4d205739df6d77a39c64cbd6da20019f4b9080587479a08a721aa057e8
 [update.modrinth]
 mod-id = "kqJFAPU9"
 version = "pRNvuggg"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that puts your food bar and XP bar back into the horse HUD without hiding mount health or the jump bar when jumping."
+

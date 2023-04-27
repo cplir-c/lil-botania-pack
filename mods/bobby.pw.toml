@@ -1,6 +1,6 @@
 name = "Bobby"
 filename = "bobby-4.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "85dac6bf9aad379ccb0b229c5b07a34e3d2a83a9df89553f5794f66cb10411ddc46da8af
 [update.modrinth]
 mod-id = "M08ruV16"
 version = "5UUzbXgz"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod to render chunks past the server's view distance, by saving them locally to render far chunks."
+

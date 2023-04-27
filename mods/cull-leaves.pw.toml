@@ -1,6 +1,6 @@
 name = "Cull Leaves"
 filename = "cullleaves-fabric-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "139fd4bf9e2dee8d61e32668a336771ffa75cacb0388554ab3f820788faeb805909f93df
 [update.modrinth]
 mod-id = "GNxdLCoP"
 version = "EqasvEFc"
+
+[option]
+optional = true
+default = false
+description = "Removes inner leaf faces from trees. Very fast and compatible. See Cull Leaves Less Leaves for a potentially-prettier option."
+

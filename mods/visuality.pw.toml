@@ -1,6 +1,6 @@
 name = "Visuality"
 filename = "visuality-0.5.6.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "b7b7f380de6f728fbc17dfb47100d692e10abf55e8dc5ef7360a34a5121000151b0b3220
 [update.modrinth]
 mod-id = "rI0hvYcd"
 version = "TrPcZLjs"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod adding a bunch of types of particles, like slime and crystal sparkles"
+

@@ -1,6 +1,6 @@
 name = "Cull Less Leaves"
 filename = "CullLessLeaves-1.0.6.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "0adefa8366a5f38799a34371a05a2fb91bed031b0fd37321343b6d811f15e595375010db
 [update.modrinth]
 mod-id = "iG6ZHsUV"
 version = "H9oZ7N6p"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod to render >=1 layer of leaves on the outside of trees. Works best with Sodium. See Cull Leaves."
+

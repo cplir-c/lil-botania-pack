@@ -12,3 +12,9 @@ hash = "629a1d9f7735173f01bb40f36d6f98e2d51cd2e5665fa100637fdf76e5a139b2ea32e8e1
 [update.modrinth]
 mod-id = "qbbO7Jns"
 version = "8VxvWtcW"
+
+[option]
+optional = true
+default = true
+description = "Plugin for the EMI recipe viewer to display loot tables for chests, blocks, and mobs."
+

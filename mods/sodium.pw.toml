@@ -1,6 +1,6 @@
 name = "Sodium"
 filename = "sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "8fbe5ada5c45efd56596bcf0c5d93d7a7264f60263289626e9d2b0ba3b3ccc914af2d9f8
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "rAfhHfow"
+
+[option]
+optional = true
+default = true
+description = "A very effective client-side rendering optimization mod. Mods expecting the Fabric Rendering API (like LambdaBetterGrass and Enhanced Block Entities) need Indium installed as well."
+

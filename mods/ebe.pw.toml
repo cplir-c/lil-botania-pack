@@ -1,6 +1,6 @@
 name = "Enhanced Block Entities"
 filename = "enhancedblockentities-0.7.2+1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "3c6fe6479de6d8c9735164eb62ecb55ecb9de0cc7405cda34c125f5356428c90a37bed8a
 [update.modrinth]
 mod-id = "OVuFYfre"
 version = "fZx04xgT"
+
+[option]
+optional = true
+default = true
+description = "Client-side optimization mod that makes some block entities use baked models instead of laggy entity models. Some visual improvements, like smooth lighting on chests. You still get the animations. If you use Sodium, this requires Indium too."
+

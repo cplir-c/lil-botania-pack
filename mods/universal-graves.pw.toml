@@ -12,3 +12,9 @@ hash = "cb7f29c5bc9237acc1412bc5848274ca5ea92781a88555c54252f31d108680f8d743bcbc
 [update.modrinth]
 mod-id = "yn9u3ypm"
 version = "9Xjqin2k"
+
+[option]
+optional = true
+default = true
+description = "Serverside graves mod with an option Clientside component to display special grave blocks."
+

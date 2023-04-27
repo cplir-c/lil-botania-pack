@@ -1,0 +1,20 @@
+name = "Nicer Skies"
+filename = "nicer-skies-1.2.0+1.19.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gsJ6q45e/versions/lXB1YslW/nicer-skies-1.2.0%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "152a2caeb0e6c9f60a7a659153341bb5f86e52e28ead90c902bfd42d04b7d25c20098ad25b8c31ca7a4722f92def1b3c856ac1bbca61ee8bdf9cc4c127044b23"
+
+[update]
+[update.modrinth]
+mod-id = "gsJ6q45e"
+version = "lXB1YslW"
+
+[option]
+optional = true
+default = true
+description = "Nicer skies is a client-side mod that adds runtime-generated cool shader-like nebulas, with twinkling stars and a config."
+

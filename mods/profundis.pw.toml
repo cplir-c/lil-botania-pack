@@ -12,3 +12,9 @@ hash = "4360e463425d4d91fb8ce9a218b416aefcf5c5e0d94bd3eb11d88c43e52a2288f7faf98f
 [update.modrinth]
 mod-id = "aucz7XCt"
 version = "zv0Dk19d"
+
+[option]
+optional = true
+default = true
+description = "Serverside mod adding four new underground cave biomes. Unnecessary on client except for singleplayer."
+

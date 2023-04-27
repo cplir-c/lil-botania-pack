@@ -12,3 +12,9 @@ hash = "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f4
 [update.modrinth]
 mod-id = "uXXizFIs"
 version = "kwjHqfz7"
+
+[option]
+optional = true
+default = true
+description = "Optimization mod that reduces the memory-usage of Minecraft in a few ways. Incompatible with Hydrogen since MC 1.18"
+

@@ -1,6 +1,6 @@
 name = "BiomeInfo"
 filename = "biomeinfo-1.19.2-12.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "9907adb929b2dec19832387310e776c543466474c52d4a0f27f94a613f6f3c89b25868ed
 [update.modrinth]
 mod-id = "Fws7jX8r"
 version = "wE70ClEA"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod to show your current biome in the screen corner briefly upon entering a biome. Alternative to Travellers' Toasts."
+

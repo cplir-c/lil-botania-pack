@@ -1,6 +1,6 @@
 name = "BoatHud"
 filename = "boathud-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "eba38e205af6071a9d7a079786e743b13e498bb2133c5aa6d426b5b4f4c7741e183cb12e
 [update.modrinth]
 mod-id = "ENNbyqzB"
 version = "4gD4CuG0"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod for displaying boating details, like drift angle and speed. Requires Cloth Config; configured through Mod Menu."
+

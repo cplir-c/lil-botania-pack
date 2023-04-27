@@ -12,3 +12,9 @@ hash = "e503dffbb091a421017e942a185f87aa3aaeca8c489e272c06655ac443a3d07e9d7400b5
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "PtXTwQt6"
+
+[option]
+optional = true
+default = true
+description = "Fixes multiple memory leaks in Minecraft. Works client- and server-side."
+

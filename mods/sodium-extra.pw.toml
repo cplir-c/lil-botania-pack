@@ -1,6 +1,6 @@
 name = "Sodium Extra"
 filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "cda3631f43cecbe32590740ccd08be4d4616b8f43f275a777f7995ebf92ca06cead4d98c
 [update.modrinth]
 mod-id = "PtjYWJkn"
 version = "MTxUvPFz"
+
+[option]
+optional = true
+default = true
+description = "Sodium Extra brings most of Optifine's eye-candy options to Sodium, as well as providing some visual bug fixes and performance options not yet in Sodium. Requires Sodium."
+

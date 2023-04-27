@@ -12,3 +12,9 @@ hash = "38abddc67502e3f6b08962e13777278d3e88c3ac4d22584636362fb828bd36a0f4313747
 [update.modrinth]
 mod-id = "mOgUt4GM"
 version = "gSoPJyVn"
+
+[option]
+optional = true
+default = true
+description = "Adds a menu listing mods. Highly suggested. Some mods expose their config GUIs through it."
+

@@ -1,0 +1,20 @@
+name = "Xander's Sodium Options"
+filename = "xanders-sodium-options-1.0.2-fabric-1.19.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sTkQBVyo/versions/heZ5Wd2y/xanders-sodium-options-1.0.2-fabric-1.19.2.jar"
+hash-format = "sha512"
+hash = "e13d447cc1feb6706e276f2522d80dc76d7bc6df9894e65e86f2dfe5744cba46c218b9e18777dc7b79678fb0deeafa22ae475f143e1a9dc347508633edfb6434"
+
+[update]
+[update.modrinth]
+mod-id = "sTkQBVyo"
+version = "heZ5Wd2y"
+
+[option]
+optional = true
+default = false
+description = "Sodium addon for a more minecraft-style video settings GUI. Incompatible with Reeses Sodium Options."
+

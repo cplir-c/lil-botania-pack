@@ -1,6 +1,6 @@
 name = "Orientation"
 filename = "critical-orientation-1.19-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "9da40ad64bf84350acd38244427098b541d4260281038d2cf3cd5bf75c6ad15f64776dce
 [update.modrinth]
 mod-id = "AFqV4ew3"
 version = "ksL4Bjju"
+
+[option]
+optional = true
+default = false
+description = "Another client-side ice-boating mod, Orientation just allows you to snap your camera angle to multiples of 45*, or set the angle with a command."
+

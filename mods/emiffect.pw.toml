@@ -12,3 +12,9 @@ hash = "7d332eef55f66acc4fe5dc09087e366d8184fc136cd88e99a58c95d1a7b2f16b48a12019
 [update.modrinth]
 mod-id = "705gWllI"
 version = "v3qtCp4n"
+
+[option]
+optional = true
+default = true
+description = "EMI addon displaying status effects resulting from items in EMI, and providing information about each one."
+

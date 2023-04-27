@@ -12,3 +12,9 @@ hash = "7207d81d646ab3c412f7d8b465102dc671764bd735afc2ea0d3a8a7bda14f19d97de24b0
 [update.modrinth]
 mod-id = "QNMulPkl"
 version = "8rrfjifi"
+
+[option]
+optional = true
+default = true
+description = "Display an informational toast when exploring a new biome!"
+

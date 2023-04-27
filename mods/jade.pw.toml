@@ -12,3 +12,9 @@ hash = "78cfef5dfca89b2ffef1b2c98640425fdd97479d2d15020cd0b4992756a60351b65b32c8
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "ZASePpsm"
+
+[option]
+optional = true
+default = true
+description = "Shows information about what you're looking at. Hwyla/Waila fork for >= MC1.16"
+

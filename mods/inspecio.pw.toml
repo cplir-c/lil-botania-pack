@@ -12,3 +12,9 @@ hash = "46d7c73577ec2bbd292fdeaaa2e91e54142db9a1fb700299fcfc5711494d5cbaecce1720
 [update.modrinth]
 mod-id = "a93H3mKU"
 version = "ajfDYyUy"
+
+[option]
+optional = true
+default = true
+description = "Better and more item tooltips! Shulker boxes, filled maps, buckets, armor, food, banner patterns, etc. Parts of the mod are configurable."
+

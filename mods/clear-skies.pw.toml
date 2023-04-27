@@ -1,6 +1,6 @@
 name = "Clear Skies"
 filename = "clear-skies-fabric-mc119-2.0.95.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "757995d6d4b1a0e6f451f8e2e25329c2a930df661ef0a7514509c5ab241a4d83c893d555
 [update.modrinth]
 mod-id = "xNK6XfRv"
 version = "rRNj4MRj"
+
+[option]
+optional = true
+default = true
+description = "Removes vanilla horizon sunset banding. Very compatible."
+

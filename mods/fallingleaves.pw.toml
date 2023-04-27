@@ -1,6 +1,6 @@
 name = "Falling Leaves"
 filename = "fallingleaves-1.13.0+1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "405738d23e132ac4e7d3e0325e16cc8ac3e7a0aa589588e4f28a38b95f14fb73550a6c01
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "aufE28Na"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod adding falling leaf particles from deciduous, non-shrub leaf blocks."
+

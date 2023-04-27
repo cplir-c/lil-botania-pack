@@ -1,6 +1,6 @@
 name = "Disable Custom Worlds Advice"
 filename = "DisableCustomWorldsAdvice-3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 mode = "url"
@@ -12,3 +12,9 @@ hash = "35947c9f810bfab16af5ece9cff594d98ab058446b775d9bed6cc2859508f9d137ab9461
 [update.modrinth]
 mod-id = "HdwRs3kc"
 version = "3Zi6jtYW"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod that disables \"Experimental Features\" advice when loading custom dimensions or world settings (single-player)."
+

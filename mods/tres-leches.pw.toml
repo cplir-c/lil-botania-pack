@@ -12,3 +12,9 @@ hash = "dae05ee5e35e62119a0bb338f2291d4930d685b2700c5fd96900f1400b741fbd7b8e2b43
 [update.modrinth]
 mod-id = "oYbmi2TB"
 version = "fTIFsDsq"
+
+[option]
+optional = true
+default = true
+description = "Allows you to remove blocks from boats and minecarts using recipe remainders, like cake buckets."
+

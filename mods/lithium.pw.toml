@@ -12,3 +12,9 @@ hash = "64646e098839d6c5caa47bbc4ece187986567273b1adcb87d2a85bcaa084859b6cc5484e
 [update.modrinth]
 mod-id = "gvQqBUqZ"
 version = "m6sVgAi6"
+
+[option]
+optional = true
+default = true
+description = "Lithium optimizes multiple Minecraft systems without changing vanilla mechanics. Helpful on both client and server."
+

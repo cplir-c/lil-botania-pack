@@ -12,3 +12,9 @@ hash = "4dec2caf697fd5152f38b8ec774e32f83c2148c9f9ac06afb129fa434f24384751628e7a
 [update.modrinth]
 mod-id = "fQEb0iXm"
 version = "vx0mZa04"
+
+[option]
+optional = true
+default = true
+description = "Networking optimization mod; most effective serverside, but works clientside"
+

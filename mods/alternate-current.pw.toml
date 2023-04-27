@@ -12,3 +12,9 @@ hash = "e7e056c3a8a639a3453c5a8cf2f1672ba341b5858c39c35a2ef215073df48af1d472487e
 [update.modrinth]
 mod-id = "r0v8vy1s"
 version = "F0ROppUm"
+
+[option]
+optional = true
+default = false
+description = "Much faster serverside implementation of redstone dust (~20x)"
+
