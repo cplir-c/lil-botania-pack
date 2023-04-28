@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "e4da5f5acd847768465adcd0920836b62e6e38dd0589df603a9eec05e118fe84"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "6b59a638f3d98d3f687506171cebb453afd1894d31282edb3294306296b66a6a"
 metafile = true
@@ -152,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "5d1e4497d5955e2e93d1a96c7a4e1dc8d2aadcc5678cc2fad70ae6d4101ea0e8"
+hash = "e0f83fc86027a6190854c2d8fa1903f00364490b3d522a9ea7bdc0b2902623cd"
 metafile = true
 
 [[files]]
@@ -367,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "a6313a2e09247307a08e26e37d694a8079e0b6269d006bad2f0aff5a2cbe6c3a"
+hash = "40cad76d03d98d8cd7f49748416b66fe419c4033930561d5fc852cfb47fecbb3"
 metafile = true
 
 [[files]]
@@ -559,4 +563,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "54e628cd40becb46f5b1e064893b5383377cf966790c85f7f3ebab4f3f3b43e8"
 metafile = true
-
