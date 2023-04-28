@@ -16,6 +16,6 @@ version = "8rUarScX"
 [option]
 optional = true
 default = false
-description = "Alpha-quality chunk optimization engine. Consider enabling if you're OK risking stability for more threading, Client or Server. Possibly related to a netty kick issue we've had."
+description = "Alpha-quality chunk optimization engine. Consider enabling if you're OK risking stability for more threading, Client or Server."
 
 
