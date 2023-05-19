@@ -1,0 +1,20 @@
+name = "QDAA"
+filename = "qdaa-1.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/i9FiM2U0/versions/cYfoTRoy/qdaa-1.2.jar"
+hash-format = "sha512"
+hash = "3336dbd12fc4e592390be3b969e1f90989eeaf5d6941210da47113c9bdb2dec4d78bf57e009168bb483795a1f1d1aea70c29e261b0c9e466c366f967f6adc1fc"
+
+[update]
+[update.modrinth]
+mod-id = "i9FiM2U0"
+version = "cYfoTRoy"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod that allows you to render Minecraft at 2x (double) resolution for fancy antialiasing via super sampling."
+

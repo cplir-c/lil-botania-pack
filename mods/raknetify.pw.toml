@@ -1,0 +1,20 @@
+name = "Raknetify (Fabric)"
+filename = "raknetify-fabric-0.1.0+alpha.5.74-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/wU8dj9qy/raknetify-fabric-0.1.0%2Balpha.5.74-all.jar"
+hash-format = "sha512"
+hash = "5ee213dd50a4cd5064b24bb1f43df832b86266e6b833d188081b9bd6363ec39d91798675f42575512e560310b0c3e8c74d83e6258b258c2967edd774d655e894"
+
+[update]
+[update.modrinth]
+mod-id = "5IovSY3u"
+version = "wU8dj9qy"
+
+[option]
+optional = true
+default = true
+description = "Mod that adds QUIC support using the `raknet` library? It helps on poor connections, and may help for others. Connect to a server with raknet; in front of the ip like `raknet;server-ip.example.com` to use it."
+

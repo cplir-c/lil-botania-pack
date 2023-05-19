@@ -1,0 +1,14 @@
+name = "Mixtape"
+filename = "Mixtape-1.3.1-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mTd6rTN3/versions/3OFXCBat/Mixtape-1.3.1-1.19.2.jar"
+hash-format = "sha512"
+hash = "dbb32978efce32ac48dc633fed54ed49fc5435e91effec7558311d00e660b2fd1f1ca8b00658a4fb042565b66fb7d878d0a32db8db11ad12e72e650f38995698"
+
+[update]
+[update.modrinth]
+mod-id = "mTd6rTN3"
+version = "3OFXCBat"

@@ -1,0 +1,19 @@
+name = "Better Respawn"
+filename = "better-respawn-fabric-1.19.2-2.0.2.jar"
+side = "server"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZUQINcGy/versions/Hw7vBhOw/better-respawn-fabric-1.19.2-2.0.2.jar"
+hash-format = "sha512"
+hash = "9a7821ecf09bf9a5efcd9db223b439b08e21ead08a64dbde2042c788ddcc26206db6b62495f46e29a966c170c3aeabaabe44e1cf41d944804f58ed67af35b8d3"
+
+[update]
+[update.modrinth]
+mod-id = "ZUQINcGy"
+version = "Hw7vBhOw"
+
+[option]
+optional = true
+default = false
+description = "Serverside mod that respawns you 'close to your death point (dist. configurable) instead of at your usual spawn point, unless you're close to your spawn point."

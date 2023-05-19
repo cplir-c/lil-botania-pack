@@ -1,0 +1,20 @@
+name = "SplashFox"
+filename = "splashfox-1.1.0.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/a59NK2Js/versions/G2euUYGf/splashfox-1.1.0.jar"
+hash-format = "sha512"
+hash = "86b99545d40f62962ca1c6160ea8ffa50fbcb635141b626dc0d1dbec16d4c96593da30745874ec9f718fac304893a795c5be3c0ba67b319a09ae7c5a08389916"
+
+[update]
+[update.modrinth]
+mod-id = "a59NK2Js"
+version = "G2euUYGf"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod that adds a bouncing blobfox to the loading screen. May move really really fast sometimes."
+

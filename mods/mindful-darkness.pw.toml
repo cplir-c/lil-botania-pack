@@ -1,0 +1,20 @@
+name = "Mindful Darkness"
+filename = "MindfulDarkness-v4.0.5-1.19.2-Fabric.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/wkkPu4dB/MindfulDarkness-v4.0.5-1.19.2-Fabric.jar"
+hash-format = "sha512"
+hash = "c1ca9198691c6d93f293a9ae4eb949bb18c0e7bd52822fe549ee8c898eee4d0b56cb26a7ffaba5e1d84a56d66e5047783e6f78c1155c783a1b6878176e78491e"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "wkkPu4dB"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that automatically adds a toggle for dark mode to GUIs. A little like the Dark Reader browser extension."
+

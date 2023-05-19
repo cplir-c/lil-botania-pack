@@ -1,0 +1,20 @@
+name = "Harvest"
+filename = "harvest-1.4.0.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/1DgT4iww/versions/C5apGQlr/harvest-1.4.0.jar"
+hash-format = "sha512"
+hash = "a7041076d6004c94d04e266e463e734beb0a3307a0c711f7a7f9853dd56f58d0b21b868fef288205468073c96213eee3f49c28136210b40d2c8a2db49e8ff6c5"
+
+[update]
+[update.modrinth]
+mod-id = "1DgT4iww"
+version = "C5apGQlr"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that allows right-clicking to break only fully-grown crops."
+

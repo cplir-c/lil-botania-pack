@@ -1,0 +1,20 @@
+name = "Vectorientation"
+filename = "vectorientation-1.0.1a-1.19.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NpPKJQg6/versions/5wkmGqYb/vectorientation-1.0.1a-1.19.jar"
+hash-format = "sha512"
+hash = "c443b578739a4805b454db1390afa9be3e38fdd6e5db8765a88134189b5af842bfa459db4d8e93b000e12bff4aa650057b01216c96a1b68c2c3344461d055934"
+
+[update]
+[update.modrinth]
+mod-id = "NpPKJQg6"
+version = "5wkmGqYb"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that adds animations (rotating, squishing, and stretching) to falling blocks based on their speed and direction. The example GIF looks nice to me but it's labeled cursed on modrinth."
+

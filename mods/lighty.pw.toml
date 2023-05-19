@@ -1,0 +1,20 @@
+name = "Lighty"
+filename = "lighty-1.3.0+1.19.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/V8vjjQIU/lighty-1.3.0%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "0d3aaf52730a942fdba267f984bd41ccf95d234b606b8e832a3828275cb7d3b42c4bc34b0d8e77718329b79b15a86a75d5119d878867b4bbef875a023b18c839"
+
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "V8vjjQIU"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that adds an unusual transparent carpet-like keybind-toggleable light overlay. Separate color for block vs skylight spawning."
+

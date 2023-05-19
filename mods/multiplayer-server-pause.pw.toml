@@ -1,0 +1,15 @@
+name = "Multiplayer Server Pause"
+filename = "Multiplayer-Server-Pause-1.19-Fabric-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RPXnAvtA/versions/mszmVKdc/Multiplayer-Server-Pause-1.19-Fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "5ecf6a4e4f025153066abf79be6a74fcf45a379057c2095ae773caf7a5d062cf936df08a538362e0e2c6940dbf727b2b2c9542f24a554023ee741748c655d8dc"
+
+[update]
+[update.modrinth]
+mod-id = "RPXnAvtA"
+version = "mszmVKdc"
+

@@ -1,0 +1,20 @@
+name = "Footprint Particle"
+filename = "footprintparticle-0.2.4.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/8KckoYYx/footprintparticle-0.2.4.jar"
+hash-format = "sha512"
+hash = "94a2efd6a5c9cedc02bed718b9482d0f90bfdccbe25f4e967e7dc0319af11a9d1a9ec6ec81cd317f71f3aad1baa84551adfb61cefaec974b2e63872378b25f73"
+
+[update]
+[update.modrinth]
+mod-id = "xZQOoOaY"
+version = "8KckoYYx"
+
+[option]
+optional = true
+default = true
+description = "Simple client-side mod that adds a footprint particle for footsteps."
+

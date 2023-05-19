@@ -1,0 +1,20 @@
+name = "Head-down Display Continuation"
+filename = "headdowndisplay-1.0.5+1.19.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/er1u0djF/versions/SjpMK95U/headdowndisplay-1.0.5%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "61929ff0c0daa27b774177bc0624c7b91c7f3eadeb19c86d3879b4315349f05bfca84b79c8d00c0db9e15a6bdfc73042d5b3e220f8d5c79a1e79218a9a1d7bca"
+
+[update]
+[update.modrinth]
+mod-id = "er1u0djF"
+version = "SjpMK95U"
+
+[option]
+optional = true
+default = false
+description = "Client-side mod that auto-hides the HUD (hotbar, xp bar, levels, health, and hunger) when it hasn't changed Recently. I found this annoying."
+

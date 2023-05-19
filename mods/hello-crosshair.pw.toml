@@ -1,0 +1,20 @@
+name = "Hello Crosshair"
+filename = "hellocrosshair-1.0.5.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xWVNd1Pt/versions/1avHUDFs/hellocrosshair-1.0.5.jar"
+hash-format = "sha512"
+hash = "3aa64eb5e210a1c0b79b530375bf0c7488ca43781d650f11d50d840cdad77ed283b4325c1ceefb9972443a975ba929fef86e19efe46a91c49449319962ac3027"
+
+[update]
+[update.modrinth]
+mod-id = "xWVNd1Pt"
+version = "1avHUDFs"
+
+[option]
+optional = true
+default = true
+description = "Simple Client-side mod that makes the crosshair expand into a circle when hovering over an entity, blockentity, door, gate, trapdoor, or fully-grown crop."
+

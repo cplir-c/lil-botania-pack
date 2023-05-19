@@ -1,20 +1,18 @@
 name = "Fast Load"
-filename = "Fastload+1.18.2-1.20-3.3.8.jar"
+filename = "Fastload+1.18.2-1.20-3.4.0.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/kCpssoSb/versions/u4FVRRGd/Fastload%2B1.18.2-1.20-3.3.8.jar"
-hash-format = "sha512"
-hash = "6c44f0054bc08480f431076b3a9a52d212307d346b1c71ce38cd17bac5cb4f7026e1909a239418cbb4d1e4171c288f16e0f97b32ca8834ffccfa7e2efe40e341"
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/ys9T20o4/Fastload%2B1.18.2-1.20-3.4.0.jar"
+hash-format = "sha1"
+hash = "b57e4d594031638b0dc076a3b6e501f417700577"
 
 [update]
 [update.modrinth]
 mod-id = "kCpssoSb"
-version = "u4FVRRGd"
+version = "ys9T20o4"
 
 [option]
 optional = true
-default = true
 description = "Optimization mod that replaces some loading screens with its own implementation, allowing chunk baking to begin before the spawn packet is recieved."
-
+default = true

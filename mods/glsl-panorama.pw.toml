@@ -1,0 +1,20 @@
+name = "GLSL Panorama Shaders"
+filename = "glslmc-0.1.2.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/kqc8wQyk/versions/essDshzM/glslmc-0.1.2.jar"
+hash-format = "sha512"
+hash = "f8cb7899babbfce94cc5c33c299f0aa1e49f6d9bcbd9953dcec95f6e3b6bce09919f2a17f08b21f029d4fe06e23e302ec77aed515ba28ce2c64231e1ef72dd64"
+
+[update]
+[update.modrinth]
+mod-id = "kqc8wQyk"
+version = "essDshzM"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that replaces the main menu panorama with cool decorative shaders. May be slow fps-wise on that screen at the default resolution, but it's configurable and only affects that screen."
+

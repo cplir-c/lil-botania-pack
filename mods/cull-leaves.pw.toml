@@ -1,20 +1,17 @@
 name = "Cull Leaves"
-filename = "cullleaves-fabric-3.0.1.jar"
+filename = "cullleaves-quilt-3.0.1.jar"
 side = "client"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves-fabric-3.0.1.jar"
-hash-format = "sha512"
-hash = "139fd4bf9e2dee8d61e32668a336771ffa75cacb0388554ab3f820788faeb805909f93dfd16f002128eedec57ae5bb6133d8e84082186fee71cd380023f42a7b"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/h5MkiE1k/cullleaves-quilt-3.0.1.jar"
+hash-format = "sha1"
+hash = "310c61a724187a34cc6f07326af623991303f2f3"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "EqasvEFc"
+version = "h5MkiE1k"
 
 [option]
 optional = true
-default = false
 description = "Removes inner leaf faces from trees. Very fast and compatible. See Cull Leaves Less Leaves for a potentially-prettier option."
-

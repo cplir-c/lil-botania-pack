@@ -1,0 +1,20 @@
+name = "Diagonal Panes"
+filename = "fabric-diagonal-panes-0.6.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mGyrHcS3/versions/ZPaPHwPy/fabric-diagonal-panes-0.6.4.jar"
+hash-format = "sha512"
+hash = "8558525fb04a6df6126b5603b58dd6700f18bf19d50dc5d315b68d559696b1cf8f41996192a88b9f2f0b311eca8a149d066923fabd3ad017a02e46fcdb8a64b4"
+
+[update]
+[update.modrinth]
+mod-id = "mGyrHcS3"
+version = "ZPaPHwPy"
+
+[option]
+optional = true
+default = false
+description = "Mostly Client-side mod that adds support for diagonal glass panes (and stained glass and iron bars). Add serverside too for hitbox and collision?"
+

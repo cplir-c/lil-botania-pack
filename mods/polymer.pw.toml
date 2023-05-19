@@ -1,0 +1,20 @@
+name = "Polymer (Packed)"
+filename = "polymer-all-0.2.27+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xGdtZczs/versions/H3RlSRaF/polymer-all-0.2.27%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "640fd121cc31032a82f46726f26a16814484b73b8ce648174ae3e03332ab6c6d75c89c954402fec8b8a14791aa9c0e4810876386136d17f413af6063f8fb7c46"
+
+[update]
+[update.modrinth]
+mod-id = "xGdtZczs"
+version = "H3RlSRaF"
+
+[option]
+optional = true
+default = true
+description = "An updated version of Polymer so Universal Graves works better."
+

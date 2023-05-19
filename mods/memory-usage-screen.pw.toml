@@ -1,0 +1,20 @@
+name = "Memory Usage Screen"
+filename = "memoryusagescreen-fabric-mc1.19-1.6.jar"
+side = "client"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n9mFA0ax/versions/1.19-1.6-Fabric/memoryusagescreen-fabric-mc1.19-1.6.jar"
+hash-format = "sha512"
+hash = "4e18651d75affe79b3d6352bb78040cc5c41c2af7153addbc227a8345290262763522bb4c0939c8a4ab2ba64964186ecab8272f68ddef9078d941604d91295bd"
+
+[update]
+[update.modrinth]
+mod-id = "n9mFA0ax"
+version = "DaL22oet"
+
+[option]
+optional = true
+default = true
+description = "Client-side mod that adds a memory usage bar to the loading screen, like forge 1.12 does."
+

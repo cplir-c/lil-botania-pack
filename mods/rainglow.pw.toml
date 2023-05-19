@@ -1,0 +1,20 @@
+name = "rainglow"
+filename = "rainglow-1.0.0+mc1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Bk6pUD7R/versions/ifqYju9a/rainglow-1.0.0%2Bmc1.19.2.jar"
+hash-format = "sha512"
+hash = "509214ba4da8c3af19307feba95ad091c10e827795b04d0444bf03d58b2c456d55e07ab36848486bed9c7b66cbae15406d825638914e1bd546bb05e5637cfafb"
+
+[update]
+[update.modrinth]
+mod-id = "Bk6pUD7R"
+version = "ifqYju9a"
+
+[option]
+optional = true
+default = true
+description = "Cosmetic mod that makes glow squid and allays pick a color from a set. Defaults to rainbow colors. Serverside allows synchonizing and saving mob colors."
+

@@ -1,0 +1,20 @@
+name = "Leaves Us In Peace"
+filename = "leaves-us-in-peace-1.0.12+MC1.19-1.19.2.jar"
+side = "server"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/wmjUkVMe/leaves-us-in-peace-1.0.12%2BMC1.19-1.19.2.jar"
+hash-format = "sha512"
+hash = "080be53d7d5a916a7e0997b0ef1527f73b05ff59264fe4d7acf367ab9220219ad4482d25176a08a37e163bbe47f02663d04cd7ad361d98fac800f2ceb12c0269"
+
+[update]
+[update.modrinth]
+mod-id = "IIpWIe1o"
+version = "wmjUkVMe"
+
+[option]
+optional = true
+default = false
+description = "Server-side mod that adds more configurable leaf decay."
+
